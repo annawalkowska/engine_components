@@ -139,3 +139,9 @@ resources/bbbb.*
 resources/asdf2.frag
 resources/asdf2.json
 resources/umdasch/
+
+.DS_Store/
+.DS_Store
+DS_Store
+*.txt
+*.ifc
